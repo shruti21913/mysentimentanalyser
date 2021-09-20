@@ -4,7 +4,6 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 # from sklearn.externals import joblib
 import pickle
-
 dataset = pd.read_csv('Reviews.csv')
 dataf = dataset[['Summary','Score', 'Text']]
 dataf['Sentiment'] = dataf['Score'].apply(lambda rating : +1 if rating > 3 else (0 if rating == 3 else -1))
@@ -115,4 +114,4 @@ pickle.dump(lr, open(filename, 'wb'))
 # clf.score(X_test,y_test)
 # filename = 'nlp_model1.pkl'
 # pickle.dump(clf, open(filename, 'wb'))
-
+#lolol
