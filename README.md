@@ -17,7 +17,7 @@ this project aims to analyze and categorize the reviews of the customers into 3 
 The deployment is done using FLASK,HEROKU.
 
 SCREENSHOTS OF THE WEB APP <br/> 
-###entering review:<br />
-![image](https://user-images.githubusercontent.com/68751708/134017239-cc868ef4-cb03-4dbd-97a7-1d416f768ef9.png)
-###result:<br />
+### entering review:<br />
+![image](https://user-images.githubusercontent.com/68751708/134017239-cc868ef4-cb03-4dbd-97a7-1d416f768ef9.png)<br/>
+### result:<br />
 ![image](https://user-images.githubusercontent.com/68751708/134017282-1e5f4e2f-b0fc-47cf-9bd5-d4fe10f90dcb.png)
