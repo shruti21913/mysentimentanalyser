@@ -21,3 +21,7 @@ SCREENSHOTS OF THE WEB APP <br/>
 ![image](https://user-images.githubusercontent.com/68751708/134017239-cc868ef4-cb03-4dbd-97a7-1d416f768ef9.png)<br/>
 ### result for POSITIVE REVIEW:<br />
 ![image](https://user-images.githubusercontent.com/68751708/134017282-1e5f4e2f-b0fc-47cf-9bd5-d4fe10f90dcb.png)
+### result for NEGATIVE REVIEW:<br />
+![image](https://user-images.githubusercontent.com/68751708/134017885-e265d68b-dfea-4fc5-ad87-6f6fc860e7d1.png)
+### result for NEUTRAL REVIEW:<br />
+![image](https://user-images.githubusercontent.com/68751708/134017921-99535c47-39f4-4f88-a9dd-22fb5b814e2c.png)
