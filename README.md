@@ -26,6 +26,6 @@ SCREENSHOTS OF THE WEB APP <br/>
 ![image](https://user-images.githubusercontent.com/68751708/134017885-e265d68b-dfea-4fc5-ad87-6f6fc860e7d1.png)
 ### result for NEUTRAL REVIEW:<br />
 ![image](https://user-images.githubusercontent.com/68751708/134017921-99535c47-39f4-4f88-a9dd-22fb5b814e2c.png)<br/>
-###flow chart<br/>
+### methodology<br/>
 ![image](https://user-images.githubusercontent.com/68751708/134021289-35bcc4b8-5011-4c4d-8859-524106722180.png)
 
